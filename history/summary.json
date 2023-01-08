@@ -22,7 +22,7 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 306,
     "timeMonth": 223,
     "timeYear": 213,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-08": 0
+    }
   },
   {
     "name": "Hacker News",
@@ -41,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
     "slug": "hacker-news",
     "status": "up",
-    "uptime": "97.47%",
+    "uptime": "97.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "26.68%",
-    "uptimeYear": "93.89%",
+    "uptimeMonth": "25.79%",
+    "uptimeYear": "93.81%",
     "time": 297,
     "timeDay": 394,
     "timeWeek": 397,
     "timeMonth": 281,
     "timeYear": 297,
     "dailyMinutesDown": {
-      "2023-01-08": 68,
+      "2023-01-08": 458,
       "2023-01-07": 1440,
       "2023-01-06": 1440,
       "2023-01-05": 1440,
